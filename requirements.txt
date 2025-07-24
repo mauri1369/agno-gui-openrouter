@@ -5,4 +5,5 @@ yfinance
 sqlalchemy
 fastapi[standard]
 uvicorn
-python-dotenv 
+python-dotenv
+requests 
